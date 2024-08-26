@@ -4,5 +4,5 @@ This repository contains the assignments I completed as part of the Data Structu
 The assignments in this repository focus on implementing and understanding various data structures and algorithms, fundamental to computer science and engineering. Each assignment corresponds to a specific concept or data structure, and the solutions are implemented in C++ or Python as specified.
 
 ## Student Database using Python 
-**File:**'A1.py'
+**File**: 'A1.py'
 
