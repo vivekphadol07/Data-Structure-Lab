@@ -4,8 +4,7 @@ This repository contains the assignments I completed as part of the Data Structu
 The assignments in this repository focus on implementing and understanding various data structures and algorithms, fundamental to computer science and engineering. Each assignment corresponds to a specific concept or data structure, and the solutions are implemented in C++ or Python as specified.
 
 ## Assigment 1: Student Database using Python
-- **Que.** Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following
-
+**Que.** Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following:
 a) The average score of class.
 b) Highest score andlowest score of class.
 c) Count of students who were absent for the test.
