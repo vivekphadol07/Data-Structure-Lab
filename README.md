@@ -6,7 +6,7 @@ The assignments in this repository focus on implementing and understanding vario
 ## Assigment 1: Student Database using Python
 - **Que.** Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following:
 a) The average score of class
-b) Highest score and lowest score of class
+b) Highest score andlowest score of class
 c) Count of students who were absent for the test
 d) Display mark with highest frequency
 - **File**: `A1.py`
