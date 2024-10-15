@@ -1,7 +1,7 @@
 /*
 DSL Assignment-6
 
-Que. Write a python program to store first year percentage of students in amray.
+Que. Write a C++ program to store first year percentage of students in amray.
      Write function for sorting array of floating point numbers in ascending order using 
      quick sortt and display top 5 scores.
 */
