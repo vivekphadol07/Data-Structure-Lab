@@ -26,6 +26,11 @@ The assignments in this repository focus on implementing and understanding vario
   b) List of students who play either cricket or badminton but not both.  
   c) Number of students who play neither cricket nor badminton.  
   d) Number of students who play cricket and football but not badminton.
-- **Files :** `A3.py`  
+- **Files :** `A3.py`
+
+## Assignment 4: Binary Search And Fibonacci Search
+- **Que .** Write a Program to store roll no. of Sudents in array attended training program in sorted order.     
+Write a function for searching whether particular student attended training program or not using binary and fibonacci search.
+
 
 
