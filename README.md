@@ -31,7 +31,7 @@ The assignments in this repository focus on implementing and understanding vario
 ## Assignment 4: Binary Search And Fibonacci Search
 - **Que .** Write a Program to store roll no. of Sudents in array attended training program in sorted order.     
 Write a function for searching whether particular student attended training program or not using binary and fibonacci search.      
-**Files :** `A4.py`  
+- **Files :** `A4.py`  
 
 ## Assignment 5: Selection Sort And Bubble Sort
 - **Que.** Write a C++ program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using      
