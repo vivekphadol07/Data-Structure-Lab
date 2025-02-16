@@ -54,7 +54,7 @@ a) Add and delete the members as well as president or even secretary.
 b) Compute total number of members of club.       
 c) Display members.     
 d) Two linked lists exists for two divisions.Concatenate the two lists. 
-    - **File :** `A7.cpp`           
+- **File :** `A7.cpp`           
 
 ## Assignment 8: Doubly Circular Linked List        
 
@@ -64,7 +64,7 @@ maintained to keep track of free seats at rows. Assume some random booking to st
 with. Use array to store pointers (Head pointer) to each row. On demand     
 a) The list of available seats is to be displayed.      
 b) The seats are to be booked.      
-c) The booking can be cancelled.        
+c) The booking can be cancelled.    
 - ** File :** `A8.cpp`      
 
 ## Assignment 9:  Vaild Palindrome      
